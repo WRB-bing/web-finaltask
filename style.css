@@ -2,7 +2,7 @@
 * @Author: dell
 * @Date:   2019-06-17 09:19:44
 * @Last Modified by:   dell
-* @Last Modified time: 2019-06-18 21:58:11
+* @Last Modified time: 2019-06-22 15:36:29
 */
 *{
 	padding:0;
@@ -147,6 +147,9 @@ ul,li,ol{
 	font-size:16px;
 	color:#797777;	
 }
+.yushi a:hover{
+	color:#3aa747;
+}
 .qita{
 	border-top:1px solid #cccccc;
 	margin:0 auto;
@@ -164,6 +167,9 @@ ul,li,ol{
 	font-family:'微软雅黑';
 	font-size:16px;
 	color:#797777;	
+}
+.qita a:hover{
+	color:#3aa747;
 }
 .diqu{
 	border-top:1px solid #cccccc;
@@ -184,6 +190,9 @@ ul,li,ol{
 	font-size:16px;
 	color:#797777;	
 }
+.diqu a:hover{
+	color:#3aa747;
+}
 .goods{
 	width:1200px;
 	margin-top:60px;
@@ -203,6 +212,7 @@ ul,li,ol{
 	bottom:0;
 	background-color:rgba(80, 80, 80, 0.8);
 	text-align:center;
+	color:#ffffff;
 }
 .hide1{
 	background-color:rgba(80, 80, 80, 0.8);
@@ -229,6 +239,7 @@ ul,li,ol{
 	bottom:0;
 	background-color:rgba(80, 80, 80, 0.8);
 	text-align:center;
+	color:#ffffff;
 }
 .hide2{
 	background-color:rgba(80, 80, 80, 0.8);
@@ -255,6 +266,7 @@ ul,li,ol{
 	bottom:0;
 	background-color:rgba(80, 80, 80, 0.8);
 	text-align:center;
+	color:#ffffff;
 }
 .hide3{
 	background-color:rgba(80, 80, 80, 0.8);
@@ -281,6 +293,7 @@ ul,li,ol{
 	bottom:0;
 	background-color:rgba(80, 80, 80, 0.8);
 	text-align:center;
+	color:#ffffff;
 }
 .hide4{
 	background-color:rgba(80, 80, 80, 0.8);
@@ -307,6 +320,7 @@ ul,li,ol{
 	bottom:0;
 	background-color:rgba(80, 80, 80, 0.8);
 	text-align:center;
+	color:#ffffff;
 }
 .hide5{
 	background-color:rgba(80, 80, 80, 0.8);
@@ -333,6 +347,7 @@ ul,li,ol{
 	bottom:0;
 	background-color:rgba(80, 80, 80, 0.8);
 	text-align:center;
+	color:#ffffff;
 }
 .hide6{
 	background-color:rgba(80, 80, 80, 0.8);
@@ -359,6 +374,7 @@ ul,li,ol{
 	bottom:0;
 	background-color:rgba(80, 80, 80, 0.8);
 	text-align:center;
+	color:#ffffff;
 }
 .hide7{
 	background-color:rgba(80, 80, 80, 0.8);
@@ -385,6 +401,7 @@ ul,li,ol{
 	bottom:0;
 	background-color:rgba(80, 80, 80, 0.8);
 	text-align:center;
+	color:#ffffff;
 }
 .hide8{
 	background-color:rgba(80, 80, 80, 0.8);
